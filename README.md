@@ -15,8 +15,10 @@ The project involves the following technologies:
 - HTML
 - CSS (SASS/SCSS can be used)
 - JavaScript
-- Resources
-- The necessary source files for the project include:
+
+## Resources
+
+The necessary source files for the project include:
 
 - `index.html`
 - `style.scss` (or `style.css`)
